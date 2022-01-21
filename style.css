@@ -111,14 +111,16 @@ body {
     .card-login{
         width: 85%;
     }
-}
+}   
 
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:920px) {
     .main-login{
         flex-direction: column;
+        height: 100vh; 
     }
     .card-login {
         margin-left: 0;
+        width: 40vw;
     }
     .left-login > h1 {
         display: none;
@@ -136,8 +138,6 @@ body {
         margin-bottom: 7vh;
     }
     .textfield > input {
-        width: 300px;
+        width: 35vw;
     }
-    
-    
 }
