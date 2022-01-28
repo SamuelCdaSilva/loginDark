@@ -1,7 +1,7 @@
 # Projeto-LoginDark
 Página de Login
 
-Site hospedado: https://samuelcdasilva.github.io/Login-Dark/login.html
+Site hospedado: https://samuelcdasilva.github.io/Projeto-LoginDark/
 
 QR Code:
 
