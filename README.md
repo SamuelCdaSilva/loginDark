@@ -5,4 +5,5 @@ Site hospedado: https://samuelcdasilva.github.io/Projeto-LoginDark/login.html
 
 QR Code:
 
-![qr-code (3)](https://user-images.githubusercontent.com/91702874/151565313-d027769c-4612-4498-80e3-c4519d5262a1.png)
+![qr-code (4)](https://user-images.githubusercontent.com/91702874/151573161-a28980a6-6c67-4abc-814c-d379b95853f5.png)
+
