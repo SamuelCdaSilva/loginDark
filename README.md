@@ -1,9 +1,11 @@
 # LoginDark
 Página de Login resposiva 📝
 
-Tecnologias utilizadas: HTML5 e CSS3.
-
 Site hospedado: https://samuelcdasilva.github.io/LoginDark/login.html
+
+Projeto realizado com o objetivo de criar uma página de login responsiva no estilo dark.
+
+Tecnologias utilizadas: HTML5 e CSS3.
 
 QR Code:
 
