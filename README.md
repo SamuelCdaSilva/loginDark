@@ -1,9 +1,9 @@
 # LoginDark
-Página de Login
+Página de Login resposiva
 
 Tecnologias utilizadas: HTML5 e CSS3.
 
-Site hospedado: https://samuelcdasilva.github.io/Projeto-LoginDark/login.html
+Site hospedado: https://samuelcdasilva.github.io/LoginDark/login.html
 
 QR Code:
 
