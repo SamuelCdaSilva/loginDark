@@ -1,5 +1,5 @@
 # LoginDark
-Página de Login resposiva
+Página de Login resposiva 📝
 
 Tecnologias utilizadas: HTML5 e CSS3.
 
